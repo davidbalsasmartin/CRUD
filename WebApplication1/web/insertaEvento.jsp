@@ -40,13 +40,13 @@
                                     Nombre película <input class="form-control" type="text" name="nompeli" value="<%= request.getParameter("nompeli") %>" readonly><br>
                                 </div>
                                 <div class="col-md-6">
-                                   Lugar  <input class="form-control" type="text" name="lugar" value="<%= request.getParameter("lugar") %>"/></br>
+                                   Lugar  <input class="form-control" type="text" name="lugar"/></br>
                                 </div>
                                 <div class="col-md-6">
-                                    Ciudad <input class="form-control" type="text" name="ciudad" value="<%= request.getParameter("ciudad") %>"/></br>
+                                    Ciudad <input class="form-control" type="text" name="ciudad"/></br>
                                 </div>
                                 <div class="col-md-6">
-                                    Fecha <input class="form-control" type="text" name="fecpeli" value="<%= request.getParameter("fecpeli") %>"/></br>
+                                    Fecha <input class="form-control" type="text" name="fecpeli"/></br>
                                 </div>
                         </div>
                         <div class="row">

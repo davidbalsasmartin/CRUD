@@ -37,10 +37,10 @@
                         <div class="row">
                             <input type="hidden" name="codpeli" value="<%= request.getParameter("codpeli") %>"/>
                             <div class="col-md-6">
-                                Nombre película <input class="form-control" type="text" name="nompeli" maxlength="20"><br>
+                                Nombre película <input class="form-control" type="text" name="nompeli" maxlength="30"><br>
                             </div>
                             <div class="col-md-6">
-                                Descripción <input class="form-control" type="text" name="despeli" maxlength="35"><br>
+                                Descripción <input class="form-control" type="text" name="despeli" maxlength="55"><br>
                             </div>
                         </div>
                         <div class="row">
