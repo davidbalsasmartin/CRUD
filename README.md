@@ -14,8 +14,5 @@ A continuación, unas imágenes del crud y su realización:
 ## editando en phpmyadmin
 <img src="captura6.png" width="420">
 
-## editando en phpmyadmin
-<img src="captura6.png" width="420">
-
 ## editando en netbeans
 <img src="captura7.png" width="420">
